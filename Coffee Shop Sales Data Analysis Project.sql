@@ -1,7 +1,7 @@
 -- Create Database
 CREATE DATABASE Coffee_shop_sales_db;
 
--- Select Data from coffee_shop_sales
+-- Select Data from coffee_shop_sales 
 SELECT * FROM coffee_shop_sales;
 
 DESCRIBE coffee_shop_sales;
